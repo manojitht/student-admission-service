@@ -1,0 +1,28 @@
+CURRICULUM VITAE
+Name: Asha Perera
+Email: asha.perera@example.com
+Role Interest: AI Engineer / ML Engineer
+
+Summary:
+AI-focused computer science graduate with hands-on experience building RAG chatbots and ML pipelines.
+
+Skills:
+- Python, FastAPI, SQL
+- PyTorch, scikit-learn
+- LangChain, RAG, embeddings
+- Docker, Git, CI basics
+- Cloud: GCP (BigQuery, Cloud Run basics)
+
+Projects:
+1) "ScholarAssist" - RAG chatbot for university policy Q&A (FastAPI + ChromaDB)
+2) Demand Forecasting mini-project using XGBoost
+3) Resume Screening assistant using embeddings
+
+Experience:
+Intern - Data Science (3 months): built a classification model for support ticket routing.
+
+Leadership:
+Student mentor for first-year Python bootcamp.
+
+Links:
+GitHub: github.com/asha-perera (placeholder)

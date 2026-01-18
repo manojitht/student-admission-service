@@ -1,0 +1,23 @@
+OFFICIAL TRANSCRIPT (Unofficial Copy)
+Student: Meera Iqbal
+Student ID: 2019-IT-112
+University: East Bay College
+Program: BSc Information Technology
+Graduation: 2023
+
+Overall GPA: 3.55 / 4.00
+
+Course Results:
+- Data Structures & Algorithms: B+
+- Database Systems: B
+- Operating Systems: B
+- Machine Learning: B+
+- Artificial Intelligence: B+
+- Probability & Statistics: A-
+- Linear Algebra: B
+- Software Engineering: B+
+- Computer Networks: B
+- Capstone (Fraud Detection using ML): A-
+
+Academic Integrity: No violations recorded.
+English: TOEFL iBT 96

@@ -1,0 +1,23 @@
+OFFICIAL TRANSCRIPT (Unofficial Copy)
+Student: Sara Jayasinghe
+Student ID: 2020-CS-041
+University: Lakeside Institute
+Program: BSc Computer Science
+Graduation: 2024
+
+Overall GPA: 3.62 / 4.00
+
+Course Results:
+- Data Structures & Algorithms: B+
+- Database Systems: A-
+- Operating Systems: B
+- Machine Learning: B
+- Artificial Intelligence: B+
+- Probability & Statistics: B+
+- Linear Algebra: B-
+- Software Engineering: A
+- Computer Networks: B+
+- Final Year Project (Customer Support Chatbot): A-
+
+Academic Integrity: No violations recorded.
+English: IELTS 7.0

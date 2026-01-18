@@ -1,0 +1,13 @@
+RECOMMENDATION LETTER
+To: Admissions Committee
+
+I am pleased to recommend Asha Perera for postgraduate study. I taught Asha in Machine Learning and supervised her final year project.
+
+Asha is an outstanding student and ranks in the top 10% of her cohort. She demonstrates excellent analytical thinking and strong engineering discipline.
+
+Her ML project work was implemented with clean code, reproducible experiments, and strong documentation. She is proactive, collaborative, and capable of delivering production-quality work.
+
+Sincerely,
+Dr. N. Fernando
+Senior Lecturer, Computer Science
+South Coast Institute of Technology

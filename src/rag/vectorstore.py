@@ -4,7 +4,7 @@ from src.config import settings
 
 def get_vectorstore():
     embedding_function = OpenAIEmbeddings(
-        model=settings.EMBEDDING_MODEL,
+        model=settings.openai_embed_model,
         api_key=settings.OPENAI_API_KEY
     )
     
@@ -12,7 +12,6 @@ def get_vectorstore():
         persist_directory=settings.CHROMA_DB_DIR,
         embedding_function=embedding_function,
         collection_name="bank_docs",
-        collection_metadata={"hnsw:space": "cosine"}
     )
     return vectorstore
 

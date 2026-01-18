@@ -1,0 +1,23 @@
+OFFICIAL TRANSCRIPT (Unofficial Copy)
+Student: Asha Perera
+Student ID: 2021-CS-014
+University: South Coast Institute of Technology
+Program: BSc (Hons) Computer Science
+Graduation: 2025
+
+Overall GPA: 3.78 / 4.00
+
+Course Results:
+- Data Structures & Algorithms: A-
+- Database Systems: A
+- Operating Systems: B+
+- Machine Learning: A
+- Artificial Intelligence: A-
+- Probability & Statistics: B+
+- Linear Algebra: B
+- Software Engineering: A-
+- Computer Networks: B+
+- Final Year Project (AI-based Study Planner): A
+
+Academic Integrity: No violations recorded.
+English: IELTS 7.0

@@ -1,0 +1,23 @@
+OFFICIAL TRANSCRIPT (Unofficial Copy)
+Student: Nimal Silva
+Student ID: 2021-CS-055
+University: Riverdale University
+Program: BSc (Hons) Computer Science
+Graduation: 2025
+
+Overall GPA: 3.92 / 4.00
+
+Course Results:
+- Data Structures & Algorithms: A
+- Database Systems: A-
+- Operating Systems: A-
+- Machine Learning: A
+- Deep Learning: A-
+- Probability & Statistics: A
+- Linear Algebra: A-
+- Software Engineering: A
+- Computer Networks: B+
+- Final Year Project (Medical Image Classifier): A
+
+Academic Integrity: No violations recorded.
+English: IELTS 8.0
