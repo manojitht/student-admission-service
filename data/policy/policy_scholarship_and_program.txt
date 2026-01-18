@@ -1,0 +1,35 @@
+UNIVERSITY ADMISSIONS & SCHOLARSHIP POLICY (v1.0)
+
+Programs:
+1) MSc Computer Science (MSCS)
+   - Minimum overall GPA: 3.20/4.00
+   - Must have at least 2 of the following:
+     a) Data Structures & Algorithms grade >= B
+     b) Database Systems grade >= B
+     c) Operating Systems grade >= B
+     d) Machine Learning or AI grade >= B
+   - English proficiency: IELTS >= 6.5 OR TOEFL iBT >= 90 (if applicable)
+
+2) MSc Artificial Intelligence (MSAI)
+   - Minimum overall GPA: 3.40/4.00
+   - Must have at least 2 of the following:
+     a) Machine Learning grade >= B+
+     b) Linear Algebra grade >= B
+     c) Probability & Statistics grade >= B
+     d) Deep Learning or Neural Networks grade >= B
+   - Preferred: research experience or substantial project work in AI/ML.
+
+Scholarship: "Merit Scholarship"
+- Eligibility:
+  - GPA >= 3.60/4.00
+  - At least 1 strong recommendation letter explicitly stating:
+      "top 10%" OR "exceptional" OR "outstanding"
+  - No academic integrity violations
+- Selection preference:
+  - Evidence of leadership or impact
+  - Publications or strong portfolio projects
+
+Notes:
+- GPA is on a 4.00 scale.
+- Grade scale: A, A-, B+, B, B-, C+, C, D, F.
+- For program requirements, grades are evaluated from transcript.
