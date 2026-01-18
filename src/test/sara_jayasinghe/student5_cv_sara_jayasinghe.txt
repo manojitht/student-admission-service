@@ -1,0 +1,22 @@
+CURRICULUM VITITAE
+Name: Sara Jayasinghe
+Email: sara.jayasinghe@example.com
+Role Interest: ML Engineer / Software Engineer
+
+Summary:
+Software engineer with ML interest; built chatbot capstone and focuses on deploying AI services.
+
+Skills:
+- Python, FastAPI, REST APIs
+- NLP basics
+- LangChain basics, prompt engineering
+- Docker, CI/CD fundamentals
+- PostgreSQL
+
+Projects:
+1) Customer Support Chatbot (capstone) using retrieval + templates
+2) FastAPI microservice for user management
+3) Data cleaning + feature engineering notebook work
+
+Experience:
+Software Engineer Intern (5 months): implemented APIs and improved system reliability.

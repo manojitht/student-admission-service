@@ -1,0 +1,23 @@
+OFFICIAL TRANSCRIPT (Unofficial Copy)
+Student: Ravi Kumar
+Student ID: 2020-CS-088
+University: Metro Tech University
+Program: BSc Computer Science
+Graduation: 2024
+
+Overall GPA: 3.18 / 4.00
+
+Course Results:
+- Data Structures & Algorithms: B
+- Database Systems: B-
+- Operating Systems: C+
+- Machine Learning: B
+- Artificial Intelligence: B-
+- Probability & Statistics: B
+- Linear Algebra: C
+- Software Engineering: B
+- Computer Networks: B-
+- Final Year Project (E-commerce Recommendation Engine): B+
+
+Academic Integrity: No violations recorded.
+English: IELTS 6.5

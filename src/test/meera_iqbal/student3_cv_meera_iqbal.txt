@@ -1,0 +1,22 @@
+CURRICULUM VITAE
+Name: Meera Iqbal
+Email: meera.iqbal@example.com
+Role Interest: Data Scientist / ML Engineer
+
+Summary:
+ML-oriented graduate with strong statistics background and applied ML experience.
+
+Skills:
+- Python, Pandas, NumPy
+- scikit-learn, XGBoost
+- NLP basics, text classification
+- Data visualization
+- Git, Docker (basic)
+
+Projects:
+1) Fraud Detection using Gradient Boosting (capstone)
+2) NLP sentiment classifier (movie reviews)
+3) Data pipeline mini-project (ETL + validation)
+
+Experience:
+Data Analyst Intern (4 months): built dashboards and KPI reports.

@@ -1,0 +1,25 @@
+CURRICULUM VITAE
+Name: Nimal Silva
+Email: nimal.silva@example.com
+Role Interest: AI Engineer / Applied Scientist
+
+Summary:
+Top-performing CS student with deep learning and computer vision project experience.
+
+Skills:
+- Python, PyTorch, OpenCV
+- Deep Learning, CNNs
+- MLOps basics (Docker, model packaging)
+- FastAPI for model serving
+- Vector search basics
+
+Projects:
+1) Medical Image Classifier (CNN) - achieved high accuracy on demo dataset
+2) Document Q&A bot using RAG (prototype)
+3) Model-serving API (FastAPI + Docker)
+
+Experience:
+Research Assistant (part-time): helped reproduce results for a CV paper.
+
+Leadership:
+Led an AI study group of 12 students.

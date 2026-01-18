@@ -1,0 +1,24 @@
+CURRICULUM VITAE
+Name: Ravi Kumar
+Email: ravi.kumar@example.com
+Role Interest: Software Engineer (Backend)
+
+Summary:
+Backend developer with some ML exposure, built recommendation engine as academic project.
+
+Skills:
+- Python, JavaScript
+- FastAPI basics, REST APIs
+- SQL, PostgreSQL
+- Docker basics, Git
+- Intro to ML with scikit-learn
+
+Projects:
+1) E-commerce Recommendation Engine (collaborative filtering prototype)
+2) Library Management System (REST API + PostgreSQL)
+
+Experience:
+Junior Backend Developer (6 months): built REST endpoints and data validation.
+
+Leadership:
+Team lead for final year group project.

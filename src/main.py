@@ -1,16 +1,15 @@
 from fastapi import FastAPI
 from src.routes import chat, ingest
-import uvicorn
 
-app = FastAPI(title="Bank RAG Service", version="1.0.0")
+app = FastAPI(
+    title="Enterprise RAG Service",
+    description="Two separate APIs: One for data ingestion, one for querying."
+)
 
-# Include Routers
-app.include_router(ingest.router, prefix="/api/v1", tags=["Ingestion"])
-app.include_router(chat.router, prefix="/api/v1", tags=["Chat"])
-
-@app.get("/health")
-async def health_check():
-    return {"status": "ok"}
+app.include_router(ingest.router, prefix="/api/v1/documents", tags=["Ingestion"])
+app.include_router(chat.router, prefix="/api/v1/chat", tags=["Query"])
 
 if __name__ == "__main__":
+    import uvicorn
     uvicorn.run("src.main:app", host="localhost", port=8000, reload=True)
+
